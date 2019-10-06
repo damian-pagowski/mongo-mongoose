@@ -1,0 +1,23 @@
+{
+  "name": "mongo-mongoose",
+  "version": "1.0.0",
+  "description": "sample project using mongoose and mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damian-pagowski/mongo-mongoose.git"
+  },
+  "author": "Damian Pagowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damian-pagowski/mongo-mongoose/issues"
+  },
+  "homepage": "https://github.com/damian-pagowski/mongo-mongoose#readme",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.3"
+  }
+}
